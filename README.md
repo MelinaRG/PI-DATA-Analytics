@@ -20,6 +20,7 @@ Una empresa prestadora de servicios de telecomunicaciones ha encargado la realiz
 la explicación detallada del proceso que realicé, centrado en la carga y limpieza de datos.
 
 2:small_blue_diamond: Definición de los KPIs:
+
     1-Aumento o disminución de la variación porcentual trimestral del servicio de internet, cada 100 hogares.
 
     2-Porcentaje de usuarios que han adoptado la banda ancha en comparación con los que aún utilizan la banda angosta.
